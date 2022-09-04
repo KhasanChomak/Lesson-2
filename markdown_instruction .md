@@ -8,6 +8,20 @@ To add bold text use  __great__
 
 ## List
 To add unnumbered list use (*)
+To add non number list you just need to add star in front of text
+
+* Element 1
+    
+    * A
+    * B
+    * C
+
+* Element 2
+* Element 3
+    
+    * 1
+    * 2
+    
 ## Working with image
 
 To add images please use this 
