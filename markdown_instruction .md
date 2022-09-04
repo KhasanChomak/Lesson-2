@@ -10,6 +10,7 @@ To add bold text use  __great__
 
 ## Working with image
 
+To add images please use this !(alaya-f-1-1.jpg)
 ## Link
 
 ## Working with table
