@@ -7,7 +7,7 @@ To make full bold you need to use double star in fromt of the text (**)
 To add bold text use  __great__
 
 ## List
-
+To add unnumbered list use (*)
 ## Working with image
 
 To add images please use this 
